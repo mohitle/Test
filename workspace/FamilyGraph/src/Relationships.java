@@ -17,8 +17,11 @@ import java.util.List;
  * 
  */
 
+
+
 public class Relationships {
 
+	
 	private ArrayList<Family> families = new ArrayList<Family>();
 	private HashSet<String> supportList = new HashSet<String>();
 	private HashMap<String, Integer> peoplesRelationships = new HashMap<String, Integer>();
