@@ -1,5 +1,6 @@
 /* This is a test.
- * Test. */
+ * Test.
+ * Change. */
 public class TestClass {
 	
 	public static void main(String[] args) {
